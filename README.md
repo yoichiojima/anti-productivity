@@ -1,2 +1,1 @@
-# muda-programming
-This repository serves as a collection of 'muda' code. Our primary objective is to embody inefficiency to the fullest extent possible.
+this repository is against toxic productivity. please do not be productive here. the less sense, the more value.
